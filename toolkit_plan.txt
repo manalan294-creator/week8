@@ -1,0 +1,24 @@
+Personal Mini-Toolkit Plan
+
+Tools:
+1. Number Guessing Game - The program chooses a random number and the user tries to guess it within a limited number of attempts.
+2. To-Do List - The program stores tasks in a list so the user can add, view, and mark them complete.
+3. Simple Calculator - The program performs basic arithmetic operations using user-entered numbers and an operator.
+4. Word Capitalizer - The program formats names or phrases to title case for a quick personal helper tool.
+
+Menu text:
+Welcome to your Personal Mini-Toolkit!
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Word Capitalizer
+5. Quit
+Choose an option: 
+
+Concepts used:
+- Number Guessing Game: loop, conditional, random number, f-string
+- To-Do List: list, loop, conditional, f-string
+- Simple Calculator: conditional, loop, arithmetic, f-string
+- Word Capitalizer: string methods, conditional, f-string
+
+This plan keeps the toolkit easy to navigate and ensures each tool uses the programming ideas learned in class.
